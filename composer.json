@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "HAB\\Resolver\\": "lib/"
+        }
+    },
+    "require": {
+        "psr/http-message": "^1.0"
+    },
+    "require-dev": {
+        "guzzlehttp/psr7": "^1.4"
+    }
+}
