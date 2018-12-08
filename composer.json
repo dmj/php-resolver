@@ -1,4 +1,5 @@
 {
+    "name": "hab/resolver",
     "autoload": {
         "psr-4": {
             "HAB\\Resolver\\": "lib/"
